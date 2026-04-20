@@ -4182,6 +4182,9 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1131" value="提示格式错误" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1380" y="6410" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1135" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1705" y="6526" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
