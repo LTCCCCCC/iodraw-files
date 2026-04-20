@@ -2547,7 +2547,7 @@
         <mxCell id="_p3B5mSk6daQErNm0lyt-66" value="编辑帖子" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="849" y="593" width="80" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="_p3B5mSk6daQErNm0lyt-67" value="导出治疗记录Excel" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_p3B5mSk6daQErNm0lyt-67" value="编辑评论" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="616" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_p3B5mSk6daQErNm0lyt-68" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_p3B5mSk6daQErNm0lyt-72" target="_p3B5mSk6daQErNm0lyt-74" edge="1">
@@ -3237,6 +3237,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2280" y="6046" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8zu65r11GfByNjWFEkF3-1" value="论坛帖子管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="978" y="493" width="80" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
