@@ -643,6 +643,14 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-149" value="点击商品查看详细" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2171" y="3375" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-151" target="6gwBjL2nSkRt5UakV6oi-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-156" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gwBjL2nSkRt5UakV6oi-155">
+          <mxGeometry x="-0.0629" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-151" value="检查库存stock&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2186" y="3460" width="80" height="80" as="geometry" />
         </mxCell>
