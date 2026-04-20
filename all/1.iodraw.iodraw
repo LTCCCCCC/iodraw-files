@@ -3239,7 +3239,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8zu65r11GfByNjWFEkF3-1" value="知识库管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="83" width="80" height="48" as="geometry" />
+          <mxGeometry x="1112" y="71" width="80" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="8zu65r11GfByNjWFEkF3-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3-v88UM-jL8uD5LCoPDi-2" target="8zu65r11GfByNjWFEkF3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1207.5" y="250" as="sourcePoint" />
+            <mxPoint x="1098.5" y="73" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
