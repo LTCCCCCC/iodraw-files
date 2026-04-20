@@ -654,7 +654,7 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-151" target="6gwBjL2nSkRt5UakV6oi-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-158" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gwBjL2nSkRt5UakV6oi-157">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-158" value="有库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gwBjL2nSkRt5UakV6oi-157">
           <mxGeometry x="-0.0651" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -665,7 +665,7 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-153" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2350" y="3474" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-154" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-154" value="显示补货" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1990" y="3475" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
