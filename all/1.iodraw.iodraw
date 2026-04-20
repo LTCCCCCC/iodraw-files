@@ -2544,7 +2544,7 @@
             <mxPoint x="961" y="442" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p3B5mSk6daQErNm0lyt-66" value="导出挂号记录Excel" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_p3B5mSk6daQErNm0lyt-66" value="编辑帖子" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="849" y="593" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_p3B5mSk6daQErNm0lyt-67" value="导出治疗记录Excel" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
