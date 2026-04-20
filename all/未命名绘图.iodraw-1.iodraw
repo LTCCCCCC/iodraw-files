@@ -5081,11 +5081,14 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1359" value="查看申请人资质及备注" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3103" y="10763" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1361" target="aTyBsR4jnVJWqHKbPdLi-1363">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1361" value="审核决定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3118" y="10843" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1363" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2929" y="10861" width="110" height="50" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1363" value="调用审核通过接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="10858" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
