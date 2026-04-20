@@ -4148,8 +4148,14 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1121" value="提示修改成功" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1251" y="6840" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1123" target="aTyBsR4jnVJWqHKbPdLi-1125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1123" value="校验文件大小限制10MB" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1715" y="6395" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1125" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1572" y="6410" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
