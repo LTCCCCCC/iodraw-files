@@ -366,6 +366,11 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-81" target="6gwBjL2nSkRt5UakV6oi-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-92" value="验证成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gwBjL2nSkRt5UakV6oi-90">
+          <mxGeometry x="-0.1564" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-81" value="后端查询pet_user表校验账号密码" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="350" width="80" height="80" as="geometry" />
         </mxCell>
@@ -377,6 +382,9 @@
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-89" value="获取角色role_id" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1505" y="485" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-93" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="594" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
