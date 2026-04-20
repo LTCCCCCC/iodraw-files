@@ -4128,7 +4128,7 @@
           <mxGeometry x="1266" y="6146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1117" value="后端更新 pet_user 表&#xa;name/sex/age/phone/avatar" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="939" y="6900" width="211" height="116" as="geometry" />
+          <mxGeometry x="1234" y="6282" width="126" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
