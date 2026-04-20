@@ -5066,6 +5066,9 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1356" value="进入宠物领养记录页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3020" y="10379" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1357" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3021" y="10472" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
