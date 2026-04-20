@@ -4516,11 +4516,14 @@
             <mxPoint x="2168" y="7760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1211" target="aTyBsR4jnVJWqHKbPdLi-1212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1211" value="进入宠物论坛页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2113" y="7749" width="110" height="50" as="geometry" />
+          <mxGeometry x="2113" y="7730" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1212" value="调用/petForumPost/list接口加载列表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2114" y="7833" width="110" height="50" as="geometry" />
+          <mxGeometry x="2113" y="7820" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
