@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="KuR9FcnFca-mXMNjKF3V">
-    <mxGraphModel dx="683" dy="365" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1404" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2554,6 +2554,9 @@
               <mxPoint x="7636" y="4082" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-80" value="usecaseDiagram&#xa;    actor &quot;普通用户&quot; as User&#xa;&#xa;&#xa;    package &quot;宠物社区管理系统&quot; {&#xa;        usecase &quot;用户注册与登录&quot; as UC1&#xa;        usecase &quot;个人信息管理&quot; as UC2&#xa;        usecase &quot;浏览宠物列表&quot; as UC3&#xa;        usecase &quot;搜索/筛选宠物&quot; as UC4&#xa;        usecase &quot;申请领养宠物&quot; as UC5&#xa;        usecase &quot;查看我的宠物&quot; as UC6&#xa;        usecase &quot;管理我的宠物&quot; as UC7&#xa;        usecase &quot;申请弃养宠物&quot; as UC8&#xa;        usecase &quot;浏览宠物用品&quot; as UC9&#xa;        usecase &quot;购买宠物用品&quot; as UC10&#xa;        usecase &quot;查看购买记录&quot; as UC11&#xa;        usecase &quot;浏览知识库文章&quot; as UC12&#xa;        usecase &quot;搜索/筛选文章&quot; as UC13&#xa;        usecase &quot;点赞/收藏文章&quot; as UC14&#xa;        usecase &quot;浏览论坛帖子&quot; as UC15&#xa;        usecase &quot;发布/管理帖子&quot; as UC16&#xa;        usecase &quot;评论/回复帖子&quot; as UC17&#xa;        usecase &quot;点赞/收藏帖子&quot; as UC18&#xa;        usecase &quot;浏览宠物新闻&quot; as UC19&#xa;        usecase &quot;预约医院挂号&quot; as UC20&#xa;        usecase &quot;查看挂号记录&quot; as UC21&#xa;        usecase &quot;查看就诊记录&quot; as UC22&#xa;        usecase &quot;支付挂号费用&quot; as UC23&#xa;    }&#xa;&#xa;&#xa;    User --&gt; UC1&#xa;    User --&gt; UC2&#xa;    User --&gt; UC3&#xa;    User --&gt; UC4&#xa;    User --&gt; UC5&#xa;    User --&gt; UC6&#xa;    User --&gt; UC7&#xa;    User --&gt; UC8&#xa;    User --&gt; UC9&#xa;    User --&gt; UC10&#xa;    User --&gt; UC11&#xa;    User --&gt; UC12&#xa;    User --&gt; UC13&#xa;    User --&gt; UC14&#xa;    User --&gt; UC15&#xa;    User --&gt; UC16&#xa;    User --&gt; UC17&#xa;    User --&gt; UC18&#xa;    User --&gt; UC19&#xa;    User --&gt; UC20&#xa;    User --&gt; UC21&#xa;    User --&gt; UC22&#xa;    User --&gt; UC23" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="516.7777235243054" y="3918.333333333333" width="245" height="800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
