@@ -4162,7 +4162,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1125" target="aTyBsR4jnVJWqHKbPdLi-1127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1125" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1125" value="提示失败信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1559" y="6410" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1127" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
