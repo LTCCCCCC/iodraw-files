@@ -2426,7 +2426,7 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-197" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1232" y="4330" width="72" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-198" value="购买宠物用品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-198" value="我的宠物管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1559" y="4333" width="72" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-199" value="个人中心管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2485,8 +2485,8 @@
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-211" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1055" y="4658" as="sourcePoint" />
-            <mxPoint x="1215" y="4658" as="targetPoint" />
+            <mxPoint x="1526" y="4502.38" as="sourcePoint" />
+            <mxPoint x="1686" y="4502.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-212" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-199" target="KlFgdP3UMjDHiNvJSJYZ-202">
