@@ -3066,7 +3066,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-340">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2182" y="5542" />
+              <mxPoint x="1936" y="5542" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-339">
           <mxGeometry relative="1" as="geometry">
