@@ -2244,16 +2244,16 @@
           <mxGeometry x="2102" y="4047" width="164" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-166" value="浏览宠物新闻" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="397" y="4047" width="156" height="48" as="geometry" />
+          <mxGeometry x="399" y="4083" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-167" value="预约医院挂号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="603" y="4047" width="156" height="48" as="geometry" />
+          <mxGeometry x="610" y="4095" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-168" value="查看挂号记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="809" y="4047" width="156" height="48" as="geometry" />
+          <mxGeometry x="809" y="4092" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-169" value="查看就诊记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="4047" width="156" height="48" as="geometry" />
+          <mxGeometry x="1026" y="4085" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-170" value="支付挂号费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1221" y="4047" width="156" height="48" as="geometry" />
