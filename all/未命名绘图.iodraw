@@ -2427,13 +2427,19 @@
           <mxGeometry x="1232" y="4330" width="72" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-198" value="购买宠物用品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1458" y="4438" width="72" height="42" as="geometry" />
+          <mxGeometry x="1428" y="4611" width="72" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-199" value="编辑信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="4327" width="72" height="42" as="geometry" />
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-199" value="个人中心管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="4351" width="72" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-200" value="查看新闻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="4375" width="72" height="42" as="geometry" />
+          <mxGeometry x="1423" y="4473" width="72" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-201" value="购买宠物用品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1307" y="4200" width="72" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-202" value="购买宠物用品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1684" y="4288" width="72" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
