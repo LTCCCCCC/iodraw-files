@@ -957,8 +957,18 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-233" target="6gwBjL2nSkRt5UakV6oi-235">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-247" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gwBjL2nSkRt5UakV6oi-236">
+          <mxGeometry x="-0.8261" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-233" target="6gwBjL2nSkRt5UakV6oi-239">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-246" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gwBjL2nSkRt5UakV6oi-245">
+          <mxGeometry x="-0.326" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-233" value="是否提交申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2166" y="6213" width="80" height="80" as="geometry" />
