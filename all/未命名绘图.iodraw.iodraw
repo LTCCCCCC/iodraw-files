@@ -662,6 +662,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-151" value="检查库存stock&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2186" y="3460" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-153" target="6gwBjL2nSkRt5UakV6oi-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-153" value="点击购买" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2350" y="3474" width="110" height="50" as="geometry" />
         </mxCell>
@@ -670,6 +673,9 @@
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-159" value="确认购买&lt;div&gt;确认订单信息&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2350" y="3550" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-161" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="3630" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
