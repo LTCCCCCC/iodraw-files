@@ -4088,13 +4088,18 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1104" target="aTyBsR4jnVJWqHKbPdLi-1106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1110" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTyBsR4jnVJWqHKbPdLi-1108">
+          <mxGeometry x="0.0982" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1104" target="aTyBsR4jnVJWqHKbPdLi-1107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1104" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1445" y="5900" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1106" value="输入编辑信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1106" value="输入编辑的信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1271" y="5915" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1107" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
