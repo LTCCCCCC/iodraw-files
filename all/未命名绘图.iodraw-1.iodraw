@@ -5069,11 +5069,20 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1356" value="进入宠物领养记录页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3020" y="10379" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1357" target="aTyBsR4jnVJWqHKbPdLi-1359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1357" value="加载申请记录" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3020" y="10460" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1359" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1362" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1359" target="aTyBsR4jnVJWqHKbPdLi-1361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1359" value="查看申请人资质及备注" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3021" y="10543" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1361" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3036" y="10623" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
