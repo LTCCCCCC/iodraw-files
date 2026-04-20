@@ -5426,7 +5426,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1443" value="加载用户列表&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;调用 /petUser/list 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3296" y="11850" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1444" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1444" value="展示 pet_user 表数据&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;含账号/姓名/角色/联系方式" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3296" y="11930" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1445" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
