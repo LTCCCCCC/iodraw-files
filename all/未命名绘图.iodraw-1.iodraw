@@ -4119,7 +4119,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1112" value="前端格式校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1286" y="6020" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1114" value="调用/pet/User/update接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1266" y="6146" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
