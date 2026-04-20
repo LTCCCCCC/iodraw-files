@@ -3170,6 +3170,9 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-361" value="宠物管理系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2416" y="5937" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-362" target="KlFgdP3UMjDHiNvJSJYZ-368">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-362" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2327" y="6044" width="23" height="101" as="geometry" />
         </mxCell>
@@ -3177,7 +3180,19 @@
           <mxGeometry x="2592" y="6044" width="23" height="101" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-368" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2337" y="6054" width="23" height="101" as="geometry" />
+          <mxGeometry x="2327" y="6188" width="23" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-370" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2337" y="6198" width="23" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-371" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2347" y="6208" width="23" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-372" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2357" y="6218" width="23" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-373" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2194.5" y="6309" width="23" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
