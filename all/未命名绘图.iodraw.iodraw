@@ -368,7 +368,7 @@
           <mxGeometry x="1345" y="365" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-89" value="返回失败信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1355" y="375" width="110" height="50" as="geometry" />
+          <mxGeometry x="1505" y="485" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
