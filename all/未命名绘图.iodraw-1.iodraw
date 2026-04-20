@@ -4988,8 +4988,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1329" value="加载宠物列表&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;调用 /pet/list 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2850" y="10004" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1331" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1331" value="管理员操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2865" y="10090" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1332" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="10105" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
