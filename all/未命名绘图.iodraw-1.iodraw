@@ -4154,6 +4154,9 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1119" value="更新前端 Store 中的全局用户信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1251" y="6747" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1121" target="aTyBsR4jnVJWqHKbPdLi-1127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1121" value="提示修改成功" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1251" y="6840" width="110" height="50" as="geometry" />
         </mxCell>
