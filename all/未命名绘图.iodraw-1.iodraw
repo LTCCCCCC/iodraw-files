@@ -4073,8 +4073,14 @@
             <mxPoint x="1485" y="5775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1101" target="aTyBsR4jnVJWqHKbPdLi-1102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1101" value="进入个人中心页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1430" y="5740" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1102" value="加载当前用户信息&lt;div&gt;从store获取数据&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="5820" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
