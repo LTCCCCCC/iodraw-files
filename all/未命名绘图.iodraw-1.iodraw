@@ -5438,8 +5438,8 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1447" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3500" y="11820" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1448" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3308" y="11930" width="80" height="80" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1448" value="管理员操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3311" y="11944" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
