@@ -4677,8 +4677,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1258" value="输入标题/内容/上传图片" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2830" y="8798" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1260" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2780" y="8891" width="110" height="50" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1260" value="调用 /petForumPost/save 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="8905" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1261" value="更新收藏记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2472" y="9229" width="126" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
