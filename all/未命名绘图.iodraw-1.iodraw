@@ -5524,11 +5524,14 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1473" value="提示修改成功" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3650" y="12910" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1479" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1475" target="aTyBsR4jnVJWqHKbPdLi-1478">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1475" value="点击删除按钮" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3810" y="12370" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1478" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3840" y="12460" width="80" height="80" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1478" value="二次确认弹窗&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;确定要删除该用户吗?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3825" y="12463" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
