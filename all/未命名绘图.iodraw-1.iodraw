@@ -4516,7 +4516,7 @@
             <mxPoint x="2168" y="7760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1211" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1211" value="进入宠物论坛页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2113" y="7749" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
