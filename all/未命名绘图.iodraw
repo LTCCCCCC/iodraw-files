@@ -3240,8 +3240,11 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-377" value="宠物知识库模块" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2186" y="6188" width="23" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-378" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-378" value="v" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2592" y="6188" width="23" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-385" value="v" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2602" y="6198" width="23" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
