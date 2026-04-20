@@ -350,7 +350,7 @@
           <mxGeometry x="1500" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-81" value="后端查询pet_user表校验账号密码" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1670" width="80" height="80" as="geometry" />
+          <mxGeometry x="1090" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
