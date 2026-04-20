@@ -4116,11 +4116,19 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1112" target="aTyBsR4jnVJWqHKbPdLi-1114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1116" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTyBsR4jnVJWqHKbPdLi-1115">
+          <mxGeometry x="-0.4907" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1112" value="前端格式校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1286" y="6020" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1114" value="调用/pet/User/update接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1266" y="6146" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1117" value="后端更新 pet_user 表&#xa;name/sex/age/phone/avatar" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="939" y="6900" width="211" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
