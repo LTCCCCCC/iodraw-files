@@ -951,6 +951,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-231" value="点击申请领养" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1981" y="6130" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-233" value="是否提交申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1996" y="6210" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
