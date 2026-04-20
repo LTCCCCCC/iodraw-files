@@ -3182,10 +3182,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-380" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-362" target="KlFgdP3UMjDHiNvJSJYZ-373">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2339" y="6157" />
+              <mxPoint x="2245" y="6157" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-381" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-362" target="KlFgdP3UMjDHiNvJSJYZ-377">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2339" y="6157" />
+              <mxPoint x="2197" y="6157" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-382" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-362" target="KlFgdP3UMjDHiNvJSJYZ-372">
           <mxGeometry relative="1" as="geometry">
