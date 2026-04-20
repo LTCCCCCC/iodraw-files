@@ -392,6 +392,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-95" value="获取角色role_id" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1505" y="740" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-96" value="获取角色role_id" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="690" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
