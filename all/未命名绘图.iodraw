@@ -2427,12 +2427,12 @@
           <mxGeometry x="1232" y="4330" width="72" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-198" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1674" y="4369" width="72" height="42" as="geometry" />
+          <mxGeometry x="1432" y="4444" width="72" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-199" value="编辑信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="4327" width="72" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-200" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-200" value="查看新闻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="4375" width="72" height="42" as="geometry" />
         </mxCell>
       </root>
