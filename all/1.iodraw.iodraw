@@ -3253,10 +3253,16 @@
         <mxCell id="8zu65r11GfByNjWFEkF3-4" value="新增知识库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1174" y="-31" width="80" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="8zu65r11GfByNjWFEkF3-5" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8zu65r11GfByNjWFEkF3-5" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="8zu65r11GfByNjWFEkF3-1" target="8zu65r11GfByNjWFEkF3-3">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1049" y="-111" as="sourcePoint" />
-            <mxPoint x="1209" y="-111" as="targetPoint" />
+            <mxPoint x="1063" y="-86" as="sourcePoint" />
+            <mxPoint x="1223" y="-86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8zu65r11GfByNjWFEkF3-6" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1059" y="-101" as="sourcePoint" />
+            <mxPoint x="1219" y="-101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
