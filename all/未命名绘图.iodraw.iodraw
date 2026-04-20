@@ -265,11 +265,17 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-51" value="前端校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="103" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-53" target="6gwBjL2nSkRt5UakV6oi-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-53" value="调用/petUser/register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="228" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-58" value="后端查询数据库用户账号是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
