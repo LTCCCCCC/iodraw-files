@@ -3173,6 +3173,9 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-362" target="KlFgdP3UMjDHiNvJSJYZ-368">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-379" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-362" target="KlFgdP3UMjDHiNvJSJYZ-370">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-362" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2327" y="6044" width="23" height="101" as="geometry" />
         </mxCell>
@@ -3198,7 +3201,7 @@
           <mxGeometry x="2186" y="6188" width="23" height="101" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-378" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2253" y="6208" width="23" height="101" as="geometry" />
+          <mxGeometry x="2592" y="6188" width="23" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
