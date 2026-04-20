@@ -3071,8 +3071,8 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-341" value="个人中心" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2253" y="5610" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-342" value="个人中心" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2035" y="5640" width="110" height="50" as="geometry" />
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-342" value="新闻模块" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1757" y="5610" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
