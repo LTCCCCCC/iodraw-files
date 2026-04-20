@@ -397,11 +397,14 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-93" value="判断角色类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="594" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-95" target="6gwBjL2nSkRt5UakV6oi-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-95" value="跳转 admin.vue&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;后台管理首页" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1505" y="710" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-96" value="获取角色role_id" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="609" width="110" height="50" as="geometry" />
+          <mxGeometry x="1505" y="780" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
