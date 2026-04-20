@@ -3885,7 +3885,7 @@
             <mxPoint x="2734" y="3057" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AkmQCBfS_7TcXZOxPZkL-465" value="favorited_in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AkmQCBfS_7TcXZOxPZkL-464">
+        <mxCell id="AkmQCBfS_7TcXZOxPZkL-465" value="likes_post" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AkmQCBfS_7TcXZOxPZkL-464">
           <mxGeometry x="0.1449" y="-3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
