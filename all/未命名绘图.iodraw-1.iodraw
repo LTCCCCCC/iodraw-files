@@ -4194,7 +4194,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1135" value="调用/pet/User/update接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1251" y="6517" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1136" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1136" value="调用后端文件上传接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1700" y="6517" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
