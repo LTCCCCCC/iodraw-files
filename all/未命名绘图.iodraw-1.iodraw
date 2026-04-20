@@ -4560,6 +4560,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1223" target="aTyBsR4jnVJWqHKbPdLi-1225">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1227" value="点赞/&lt;div&gt;取消点赞&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTyBsR4jnVJWqHKbPdLi-1226">
+          <mxGeometry x="0.0455" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1223" value="详情页面操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2013" y="8970" width="80" height="80" as="geometry" />
         </mxCell>
