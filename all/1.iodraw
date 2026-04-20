@@ -2836,7 +2836,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AkmQCBfS_7TcXZOxPZkL-232" value="PET_KNOWLEDGE_CATEGORY" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="1921" y="2418" width="186" height="157" as="geometry" />
+          <mxGeometry x="1695" y="2816" width="186" height="157" as="geometry" />
         </mxCell>
         <mxCell id="AkmQCBfS_7TcXZOxPZkL-233" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="AkmQCBfS_7TcXZOxPZkL-232">
           <mxGeometry y="25" width="186" height="22" as="geometry" />
