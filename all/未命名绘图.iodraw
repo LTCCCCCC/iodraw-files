@@ -3161,7 +3161,7 @@
           <mxGeometry x="2459.5" y="6044" width="23" height="101" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-364" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2586" y="6048" width="23" height="101" as="geometry" />
+          <mxGeometry x="2592" y="6044" width="23" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
