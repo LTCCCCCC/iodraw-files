@@ -283,7 +283,7 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-62" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="875" y="612" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-63" value="插入 pet_user 表&#xa;默认 role_id=2" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-63" value="插入 pet_user 表" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1010" y="345" width="90" height="55" as="geometry" />
         </mxCell>
       </root>
