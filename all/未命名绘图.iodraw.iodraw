@@ -268,7 +268,7 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-53" value="调用/petUser/register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="228" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-58" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-58" value="后端查询数据库用户账号是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
