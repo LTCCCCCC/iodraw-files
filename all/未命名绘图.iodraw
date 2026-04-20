@@ -3065,6 +3065,12 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-336">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-339">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-335" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2127" y="5455" width="110" height="50" as="geometry" />
         </mxCell>
