@@ -4322,10 +4322,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-947" value="collected_in" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.99;entryX=0.4;entryY=0;rounded=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-647" target="aTyBsR4jnVJWqHKbPdLi-712">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0012" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="391" y="3089" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-948" value="liked_in" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.74;entryX=0.43;entryY=0;rounded=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-647" target="aTyBsR4jnVJWqHKbPdLi-729">
