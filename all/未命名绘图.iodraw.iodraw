@@ -665,7 +665,7 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-153" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2350" y="3474" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-154" value="显示补货" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-154" value="显示销" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1990" y="3475" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
