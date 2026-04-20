@@ -310,6 +310,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-68" value="输入账号密码" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1380" y="118" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-71" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="365" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
