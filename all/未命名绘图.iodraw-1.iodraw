@@ -5435,7 +5435,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1455" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1444" target="aTyBsR4jnVJWqHKbPdLi-1453">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1444" value="输入用户相关信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1444" value="输入用户相关信息并确认" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3490" y="12370" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1445" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
