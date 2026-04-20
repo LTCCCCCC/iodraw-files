@@ -3066,7 +3066,13 @@
           <mxGeometry x="2005" y="5610" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-340" value="个人中心" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2015" y="5620" width="110" height="50" as="geometry" />
+          <mxGeometry x="1881" y="5610" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-341" value="个人中心" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2253" y="5610" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-342" value="个人中心" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2035" y="5640" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
