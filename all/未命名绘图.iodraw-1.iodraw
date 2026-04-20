@@ -4542,6 +4542,9 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1216" value="点击查看详细" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1901" y="7925" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1219" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1901" y="8018" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
