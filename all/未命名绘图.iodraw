@@ -3037,8 +3037,11 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-332" value="宠物管理系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2418" y="5330" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-333" value="宠物管理系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2428" y="5340" width="110" height="50" as="geometry" />
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-333" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="5455" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-334" value="宠物管理系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2629" y="5455" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
