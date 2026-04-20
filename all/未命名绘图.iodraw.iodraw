@@ -703,10 +703,10 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-163" target="6gwBjL2nSkRt5UakV6oi-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-174" value="更新 pet_goods 表" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-174" value="插入pet_goods_record表记录购买信息" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2354" y="3927" width="102" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.27;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-171" target="6gwBjL2nSkRt5UakV6oi-174">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-171" target="6gwBjL2nSkRt5UakV6oi-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
