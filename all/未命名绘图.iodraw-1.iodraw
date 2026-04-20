@@ -4568,11 +4568,14 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1223" value="详情页面操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2013" y="8970" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1225" target="aTyBsR4jnVJWqHKbPdLi-1228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1225" value="调用 /petForumLike/toggle 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1830" y="8985" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1228" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1847" y="9090" width="80" height="80" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1228" value="查询pet" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1845" y="9070" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
