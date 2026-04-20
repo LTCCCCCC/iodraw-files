@@ -4586,6 +4586,15 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1233" value="浏览量view_count增加1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2063" y="9219" width="126" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1228" target="aTyBsR4jnVJWqHKbPdLi-1233">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2083" y="9163" />
+              <mxPoint x="2083" y="9199" />
+              <mxPoint x="2126" y="9199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
