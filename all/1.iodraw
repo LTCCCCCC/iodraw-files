@@ -2534,7 +2534,7 @@
             <mxPoint x="2589" y="2960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AkmQCBfS_7TcXZOxPZkL-165" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AkmQCBfS_7TcXZOxPZkL-163">
+        <mxCell id="AkmQCBfS_7TcXZOxPZkL-165" value="likes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AkmQCBfS_7TcXZOxPZkL-163">
           <mxGeometry x="0.704" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
