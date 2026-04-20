@@ -298,6 +298,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-58" value="后端查询数据库用户账号是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="350" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-60" target="6gwBjL2nSkRt5UakV6oi-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-60" value="返回注册失败提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -355,7 +358,10 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-81" value="后端查询pet_user表校验账号密码" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-84" value="返回注册成功" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-84" target="6gwBjL2nSkRt5UakV6oi-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-84" value="返回失败信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1345" y="365" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
