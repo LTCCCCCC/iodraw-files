@@ -5113,6 +5113,12 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1370" value="调用审核驳回接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3293" y="10858" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1372" value="更新 pet_record 状态为 3 &#39;拒绝&#39;&#xa;填写驳回原因" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3285" y="10955" width="126" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1373" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1370" target="aTyBsR4jnVJWqHKbPdLi-1372">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
