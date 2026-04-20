@@ -2421,7 +2421,7 @@
           <mxGeometry x="1297" y="4473" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-195" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1153" y="4399" width="72" height="42" as="geometry" />
+          <mxGeometry x="1157" y="4365" width="72" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-197" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1238" y="4345" width="72" height="42" as="geometry" />
@@ -2449,8 +2449,8 @@
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-205" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="813" y="4501" as="sourcePoint" />
-            <mxPoint x="729" y="4426" as="targetPoint" />
+            <mxPoint x="769" y="4504.75" as="sourcePoint" />
+            <mxPoint x="685" y="4429.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-206" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-194" target="KlFgdP3UMjDHiNvJSJYZ-199">
@@ -2569,8 +2569,8 @@
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-231" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="799" y="4612" as="sourcePoint" />
-            <mxPoint x="959" y="4612" as="targetPoint" />
+            <mxPoint x="755" y="4615.75" as="sourcePoint" />
+            <mxPoint x="915" y="4615.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-232" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-234" target="KlFgdP3UMjDHiNvJSJYZ-237">
@@ -2602,6 +2602,9 @@
             <mxPoint x="883" y="4676" as="sourcePoint" />
             <mxPoint x="1043" y="4676" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-239" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="4423" width="72" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
