@@ -3071,6 +3071,14 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-339">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-341">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2182" y="5542" />
+              <mxPoint x="2308" y="5542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-335" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2127" y="5455" width="110" height="50" as="geometry" />
         </mxCell>
