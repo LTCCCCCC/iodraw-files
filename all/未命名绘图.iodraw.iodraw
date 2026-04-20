@@ -1000,7 +1000,7 @@
           <mxGeometry x="2000" y="6428" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-249" value="更新 pet_goods 表" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2364" y="3840" width="102" height="60" as="geometry" />
+          <mxGeometry x="2155" y="6540" width="102" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
