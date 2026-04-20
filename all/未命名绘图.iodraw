@@ -3155,7 +3155,10 @@
           <mxGeometry x="2416" y="5937" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-362" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2278" y="6037" width="18" height="101" as="geometry" />
+          <mxGeometry x="2306" y="6044" width="23" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-363" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2558" y="6059" width="23" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
