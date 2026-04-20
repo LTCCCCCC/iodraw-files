@@ -2589,7 +2589,10 @@
           <mxGeometry x="1163" y="4524" width="72" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-235" value="查看详细" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="4559" width="72" height="42" as="geometry" />
+          <mxGeometry x="1021" y="4516" width="72" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-236" value="宠物知识库查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1173" y="4534" width="72" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
