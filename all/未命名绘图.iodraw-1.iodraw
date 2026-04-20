@@ -4674,14 +4674,17 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1255" value="点击发布新贴" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2830" y="8705" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1258" target="aTyBsR4jnVJWqHKbPdLi-1260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1258" value="输入标题/内容/上传图片" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2830" y="8798" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1260" value="调用 /petForumPost/save 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2830" y="8905" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1261" value="更新收藏记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2472" y="9229" width="126" height="78" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1261" value="插入 pet_forum_post 表" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2822" y="9013" width="126" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
