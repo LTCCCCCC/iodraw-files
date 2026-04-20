@@ -3035,7 +3035,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-332" value="宠物管理系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2494" y="5360" width="110" height="50" as="geometry" />
+          <mxGeometry x="2418" y="5330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-333" value="宠物管理系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2428" y="5340" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
