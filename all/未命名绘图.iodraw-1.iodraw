@@ -4136,8 +4136,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1114" target="aTyBsR4jnVJWqHKbPdLi-1117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1119" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1119" value="更新前端 Store 中的全局用户信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1308" y="6747" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1121" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="6840" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
