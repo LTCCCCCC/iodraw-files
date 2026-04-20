@@ -939,7 +939,7 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-228" value="进入宠物领养模块页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1883" y="5620" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-229" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-229" value="点击查看宠物详情" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1884" y="5700" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
