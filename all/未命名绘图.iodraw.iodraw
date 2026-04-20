@@ -624,18 +624,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-146" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="2460" width="30" height="30" as="geometry" />
+          <mxGeometry x="2210" y="3215" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-147" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="6gwBjL2nSkRt5UakV6oi-146" parent="1" target="6gwBjL2nSkRt5UakV6oi-148">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2255" y="2550" as="targetPoint" />
+            <mxPoint x="2225" y="3305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-148" target="6gwBjL2nSkRt5UakV6oi-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-148" value="进入宠物用品模块页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="2530" width="110" height="50" as="geometry" />
+          <mxGeometry x="2170" y="3285" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-149" value="点击商品查看详细" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2201" y="2620" width="110" height="50" as="geometry" />
+          <mxGeometry x="2171" y="3375" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
