@@ -5438,6 +5438,9 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1444" value="输入用户相关信息并确认" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3490" y="12370" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1468" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1445" target="aTyBsR4jnVJWqHKbPdLi-1467">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1445" value="选择目标用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3650" y="12478" width="110" height="50" as="geometry" />
         </mxCell>
@@ -5492,8 +5495,8 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1462" value="提示账号已被占用" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3350" y="12478" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1467" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3651" y="12600" width="110" height="50" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1467" value="修改用户信息并确认" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3650" y="12590" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
