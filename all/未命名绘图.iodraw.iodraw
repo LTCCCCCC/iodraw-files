@@ -969,6 +969,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-237" value="后端校验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;宠物是否仍可申请&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;用户是否已拥有该宠物" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1996" y="6410" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-239" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="6435" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
