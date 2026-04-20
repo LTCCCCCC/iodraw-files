@@ -4511,10 +4511,13 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1209" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="2153" y="7670" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1210" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aTyBsR4jnVJWqHKbPdLi-1209" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1210" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aTyBsR4jnVJWqHKbPdLi-1209" parent="1" target="aTyBsR4jnVJWqHKbPdLi-1211">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2168" y="7760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1211" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2113" y="7749" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
