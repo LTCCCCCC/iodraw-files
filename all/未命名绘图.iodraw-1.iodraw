@@ -4110,6 +4110,9 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1107" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1585" y="5915" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1112" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1286" y="6020" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
