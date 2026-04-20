@@ -4116,8 +4116,10 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1107" value="选择本地图片" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1700" y="6290" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1112" target="aTyBsR4jnVJWqHKbPdLi-1114">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1306" y="6521" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1116" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTyBsR4jnVJWqHKbPdLi-1115">
           <mxGeometry x="-0.4907" y="1" relative="1" as="geometry">
@@ -4135,17 +4137,16 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1112" value="前端格式校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1266" y="6395" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1114" value="调用/pet/User/update接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1246" y="6521" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1117" target="aTyBsR4jnVJWqHKbPdLi-1119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1117" value="后端更新 pet_user 表" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1243" y="6625" width="126" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1114" target="aTyBsR4jnVJWqHKbPdLi-1117">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aTyBsR4jnVJWqHKbPdLi-1117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1306" y="6581" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1119" target="aTyBsR4jnVJWqHKbPdLi-1121">
           <mxGeometry relative="1" as="geometry" />
@@ -4182,8 +4183,8 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1131" value="提示格式错误" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1380" y="6410" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1135" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1705" y="6526" width="110" height="50" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1135" value="调用/pet/User/update接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="6521" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
