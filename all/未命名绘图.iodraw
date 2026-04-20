@@ -3135,8 +3135,11 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-354" value="用户管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2485" y="5610" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-355" value="宠物领养管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2855" y="5620" width="110" height="35" as="geometry" />
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-355" value="宠物用品购买记录" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2965" y="5610" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-356" value="宠物领养管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="5610" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
