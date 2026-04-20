@@ -5533,10 +5533,15 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1484" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1478" target="aTyBsR4jnVJWqHKbPdLi-1483">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1485" value="确定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTyBsR4jnVJWqHKbPdLi-1484">
+          <mxGeometry x="-0.0914" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1478" value="二次确认弹窗&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;确定要删除该用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3825" y="12463" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1483" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1483" value="调用 /petUser/delete 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3810" y="12590" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
