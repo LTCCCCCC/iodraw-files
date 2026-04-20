@@ -1011,6 +1011,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-251" value="返回申请成功" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2151" y="6640" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-253" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2166" y="6728" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
