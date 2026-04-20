@@ -4629,6 +4629,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1235" target="aTyBsR4jnVJWqHKbPdLi-1264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1235" value="更新帖子 like_count" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1942" y="9320" width="126" height="78" as="geometry" />
         </mxCell>
@@ -4690,7 +4693,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1264" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="2569" y="9429" width="30" height="30" as="geometry" />
+          <mxGeometry x="2568" y="9433" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
