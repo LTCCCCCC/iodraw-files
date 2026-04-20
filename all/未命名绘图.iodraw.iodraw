@@ -317,7 +317,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-71" value="返回注册成功" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="365" width="110" height="50" as="geometry" />
+          <mxGeometry x="1186" y="365" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-74" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="213" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
