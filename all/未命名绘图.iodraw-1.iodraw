@@ -5544,7 +5544,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1483" value="调用 /petUser/delete 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3810" y="12590" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1486" value="更新 pet_user 表记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1486" value="删除 pet_user 记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3802" y="12684" width="126" height="78" as="geometry" />
         </mxCell>
       </root>
