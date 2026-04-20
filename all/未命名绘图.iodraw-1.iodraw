@@ -5095,8 +5095,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1363" value="调用审核通过接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2910" y="10858" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1366" value="插入 pet 表&#xa;status=0 待领养" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2894" y="10950" width="126" height="78" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1366" value="更新 pet_record 状态为 2 &#39;已完成&#39;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2902" y="10955" width="126" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1363" target="aTyBsR4jnVJWqHKbPdLi-1366">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
