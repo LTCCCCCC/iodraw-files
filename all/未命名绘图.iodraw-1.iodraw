@@ -4200,11 +4200,14 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1136" value="调用后端文件上传接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1700" y="6517" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1139" target="aTyBsR4jnVJWqHKbPdLi-1141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1139" value="服务器保存图片至&#xa;uploads/users/ 目录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1692" y="6625" width="126" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1141" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="6740" width="110" height="50" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1141" value="返回图片访问 URL" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="6747" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
