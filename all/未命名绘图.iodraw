@@ -3126,6 +3126,12 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-350" value="管理员" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2725" y="5610" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-352" value="管理员" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="5610" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-353" value="管理员" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2745" y="5630" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
