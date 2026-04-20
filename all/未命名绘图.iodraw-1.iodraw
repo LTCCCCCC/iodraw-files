@@ -5556,6 +5556,9 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1488" value="提示删除成功" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3970" y="12838" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1490" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="3850" y="13060" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
