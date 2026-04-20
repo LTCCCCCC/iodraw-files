@@ -5501,8 +5501,14 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1467" value="修改用户信息并确认" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3650" y="12590" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1472" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1469" target="aTyBsR4jnVJWqHKbPdLi-1471">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1469" value="调用 /petUser/update 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3650" y="12698" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1471" value="更新 pet_user 表记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3642" y="12795" width="126" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
