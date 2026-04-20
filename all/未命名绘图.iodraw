@@ -2235,10 +2235,10 @@
           <mxGeometry x="1467" y="4047" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-163" value="发布/管理帖子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1673" y="4047" width="164" height="48" as="geometry" />
+          <mxGeometry x="1674" y="4079" width="164" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-164" value="评论/回复帖子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1887" y="4047" width="164" height="48" as="geometry" />
+          <mxGeometry x="1904" y="4105" width="164" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-165" value="点赞/收藏帖子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2102" y="4047" width="164" height="48" as="geometry" />
@@ -2256,7 +2256,7 @@
           <mxGeometry x="1026" y="4085" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-170" value="支付挂号费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1221" y="4047" width="156" height="48" as="geometry" />
+          <mxGeometry x="1229" y="4079" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-171" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-147" target="KlFgdP3UMjDHiNvJSJYZ-148">
           <mxGeometry relative="1" as="geometry">
