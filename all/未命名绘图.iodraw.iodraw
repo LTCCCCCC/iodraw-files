@@ -691,6 +691,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-163" target="6gwBjL2nSkRt5UakV6oi-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-163" value="后端校验库存" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2365" y="3700" width="80" height="80" as="geometry" />
         </mxCell>
@@ -698,7 +701,10 @@
           <mxGeometry x="2180" y="3715" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-169" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2350" y="3830" width="110" height="50" as="geometry" />
+          <mxGeometry x="2360" y="3864" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-171" value="更新 pet_goods 表&#xa;stock = stock - num" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1714" y="3997" width="154" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
