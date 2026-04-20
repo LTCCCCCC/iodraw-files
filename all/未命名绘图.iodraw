@@ -3056,11 +3056,20 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-334" value="管理员" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2725" y="5455" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-343">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-336">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-335" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2127" y="5455" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-336" value="宠物论坛模块" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2129" y="5610" width="110" height="50" as="geometry" />
+          <mxGeometry x="2127" y="5610" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-339" value="宠物用品模块" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2005" y="5610" width="110" height="50" as="geometry" />
