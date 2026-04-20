@@ -5450,8 +5450,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1448" value="管理员操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3665" y="12355" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1453" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3505" y="12483" width="80" height="80" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1454" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1453" target="aTyBsR4jnVJWqHKbPdLi-1444">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1453" value="校验账号唯一性" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3505" y="12463" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
