@@ -338,8 +338,8 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-74" value="前端校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="213" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1382" width="120" height="60" as="geometry" />
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-78" value="调用/petUser/login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
