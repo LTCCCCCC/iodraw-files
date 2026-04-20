@@ -2573,7 +2573,7 @@
             <mxPoint x="959" y="4612" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-232" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-232" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-234" target="KlFgdP3UMjDHiNvJSJYZ-237">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="880" y="4671.38" as="sourcePoint" />
             <mxPoint x="1040" y="4671.38" as="targetPoint" />
@@ -2592,10 +2592,16 @@
           <mxGeometry x="1021" y="4516" width="72" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-236" value="点赞知识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="4660" width="72" height="42" as="geometry" />
+          <mxGeometry x="1142" y="4639" width="72" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-237" value="收藏知识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="4595" width="72" height="42" as="geometry" />
+          <mxGeometry x="1054" y="4597" width="72" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-238" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-234">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="883" y="4676" as="sourcePoint" />
+            <mxPoint x="1043" y="4676" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
