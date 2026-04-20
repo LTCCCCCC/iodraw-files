@@ -3094,8 +3094,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335" target="KlFgdP3UMjDHiNvJSJYZ-341">
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KlFgdP3UMjDHiNvJSJYZ-335">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2308.0526315789475" y="5610" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2182" y="5542" />
               <mxPoint x="2308" y="5542" />
@@ -3113,9 +3114,6 @@
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-340" value="宠物领养模块" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1881" y="5610" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-341" value="个人中心模块" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2253" y="5610" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-342" value="新闻模块" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1757" y="5610" width="110" height="50" as="geometry" />
@@ -3149,6 +3147,9 @@
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-359" value="宠物领养管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3445" y="5610" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-360" value="宠物论坛模块" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2299" y="5625" width="25" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
