@@ -4549,7 +4549,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1219" value="调用ForumPostDetail页面显示信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2224" y="8798" width="110" height="50" as="geometry" />
+          <mxGeometry x="2053" y="8705" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1221" target="aTyBsR4jnVJWqHKbPdLi-1223">
           <mxGeometry relative="1" as="geometry" />
