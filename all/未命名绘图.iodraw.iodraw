@@ -386,6 +386,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-89" value="获取角色role_id" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1505" y="485" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-93" target="6gwBjL2nSkRt5UakV6oi-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-93" value="判断角色类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="594" width="80" height="80" as="geometry" />
         </mxCell>
@@ -393,7 +396,7 @@
           <mxGeometry x="1505" y="740" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-96" value="获取角色role_id" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="690" width="110" height="50" as="geometry" />
+          <mxGeometry x="1281" y="700" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
