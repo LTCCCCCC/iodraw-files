@@ -4983,10 +4983,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1328" value="进入宠物管理页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2850" y="9938" width="110" height="50" as="geometry" />
+          <mxGeometry x="2850" y="9912" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1329" value="加载宠物列表&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;调用 /pet/list 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2850" y="10040" width="110" height="50" as="geometry" />
+          <mxGeometry x="2850" y="10004" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1331" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2865" y="10090" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
