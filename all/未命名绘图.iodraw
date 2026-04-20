@@ -3298,11 +3298,11 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-389" value="宠物新闻管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2727" y="6188" width="23" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-395" value="宠物新闻管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-395" value="宠物类型管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2770" y="6188" width="23" height="101" as="geometry" />
         </mxCell>
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-396" value="宠物新闻管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2880" y="6277" width="23" height="101" as="geometry" />
+          <mxGeometry x="2812" y="6188" width="23" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
