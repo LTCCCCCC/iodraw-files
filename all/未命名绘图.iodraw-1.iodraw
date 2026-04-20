@@ -4288,10 +4288,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-942" value="categorizes" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.79;exitY=0.99;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-302" target="aTyBsR4jnVJWqHKbPdLi-315">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0247" y="36" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="923" y="3089" />
             </Array>
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-943" value="adopted_in" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.56;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-315" target="aTyBsR4jnVJWqHKbPdLi-360">
