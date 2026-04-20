@@ -4555,7 +4555,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1221" value="浏览量view_count增加1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2216" y="8891" width="126" height="78" as="geometry" />
+          <mxGeometry x="2045" y="8820" width="126" height="78" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1223" target="aTyBsR4jnVJWqHKbPdLi-1225">
           <mxGeometry relative="1" as="geometry">
@@ -4568,7 +4568,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1223" value="详情页面操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2239" y="9013" width="80" height="80" as="geometry" />
+          <mxGeometry x="2187" y="9013" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1225" target="aTyBsR4jnVJWqHKbPdLi-1228">
           <mxGeometry relative="1" as="geometry" />
