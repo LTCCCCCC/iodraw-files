@@ -4539,6 +4539,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1214" target="aTyBsR4jnVJWqHKbPdLi-1255">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1257" value="发布新贴" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTyBsR4jnVJWqHKbPdLi-1256">
+          <mxGeometry x="-0.0958" y="-3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1214" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2543" y="8690" width="80" height="80" as="geometry" />
         </mxCell>
@@ -4663,7 +4668,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1253" value="更新收藏记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2462" y="9219" width="126" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1255" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1255" value="点击发布新贴" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2830" y="8705" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
