@@ -634,7 +634,7 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-148" value="进入宠物用品模块页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2200" y="2530" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-149" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-149" value="点击商品查看详细" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2201" y="2620" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
