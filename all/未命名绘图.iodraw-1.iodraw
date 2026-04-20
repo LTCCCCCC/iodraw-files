@@ -4110,7 +4110,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1106" value="输入编辑的信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1308" y="6290" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1107" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1107" value="选择本地图片" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1622" y="6290" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1112" target="aTyBsR4jnVJWqHKbPdLi-1114">
