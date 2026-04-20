@@ -284,7 +284,7 @@
           <mxGeometry x="875" y="612" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-63" value="插入 pet_user 表&#xa;默认 role_id=2" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="416" y="1007" width="135" height="90" as="geometry" />
+          <mxGeometry x="1010" y="345" width="90" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
