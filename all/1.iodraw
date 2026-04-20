@@ -2356,7 +2356,7 @@
             <mxPoint x="2619" y="2760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AkmQCBfS_7TcXZOxPZkL-144" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AkmQCBfS_7TcXZOxPZkL-124">
+        <mxCell id="AkmQCBfS_7TcXZOxPZkL-144" value="collects" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AkmQCBfS_7TcXZOxPZkL-124">
           <mxGeometry x="0.0555" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
