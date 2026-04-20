@@ -4574,8 +4574,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1225" value="调用 /petForumLike/toggle 接口" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1830" y="8985" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1228" value="查询pet" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1228" value="查询 pet_forum_like 表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1845" y="9070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1230" value="浏览量view_count增加1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="8858" width="126" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
