@@ -1033,6 +1033,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-253" value="管理员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2166" y="6728" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-255" target="6gwBjL2nSkRt5UakV6oi-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-255" value="更新 record 状态为&#39;通过&#39;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;更新宠物领养状态" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2150" y="6860" width="110" height="50" as="geometry" />
         </mxCell>
