@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="KuR9FcnFca-mXMNjKF3V">
-    <mxGraphModel dx="5040" dy="3419" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2231" dy="1919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2535,7 +2535,7 @@
         <mxCell id="_p3B5mSk6daQErNm0lyt-63" value="导出Excel" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="828" y="535" width="80" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="_p3B5mSk6daQErNm0lyt-64" value="宠物医院记录查看" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_p3B5mSk6daQErNm0lyt-64" value="论坛帖子管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="968" y="483" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_p3B5mSk6daQErNm0lyt-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3-v88UM-jL8uD5LCoPDi-2" target="_p3B5mSk6daQErNm0lyt-64" edge="1">
