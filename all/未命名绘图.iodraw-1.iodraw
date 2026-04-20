@@ -4073,7 +4073,7 @@
             <mxPoint x="1485" y="5775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1101" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1101" value="进入个人中心页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1430" y="5740" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
