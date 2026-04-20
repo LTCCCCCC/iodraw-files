@@ -5415,10 +5415,13 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1440" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="3336" y="11711" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1441" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aTyBsR4jnVJWqHKbPdLi-1440" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1441" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aTyBsR4jnVJWqHKbPdLi-1440" parent="1" target="aTyBsR4jnVJWqHKbPdLi-1442">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3351" y="11801" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1442" value="进入用户管理页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3296" y="11778" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
