@@ -5438,7 +5438,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1444" value="输入用户相关信息并确认" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3490" y="12370" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1445" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1445" value="选择目标用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3650" y="12478" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1458" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1446" target="aTyBsR4jnVJWqHKbPdLi-1456">
@@ -5453,7 +5453,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1452" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1448" target="aTyBsR4jnVJWqHKbPdLi-1444">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1466" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTyBsR4jnVJWqHKbPdLi-1452">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1466" value="新增用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTyBsR4jnVJWqHKbPdLi-1452">
           <mxGeometry x="-0.0896" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -5491,6 +5491,9 @@
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1462" value="提示账号已被占用" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3350" y="12478" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1467" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3651" y="12600" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
