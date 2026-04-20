@@ -4509,24 +4509,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1209" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="2153" y="7670" width="30" height="30" as="geometry" />
+          <mxGeometry x="2250" y="8407" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1210" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aTyBsR4jnVJWqHKbPdLi-1209" parent="1" target="aTyBsR4jnVJWqHKbPdLi-1211">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2168" y="7760" as="targetPoint" />
+            <mxPoint x="2265" y="8497" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1211" target="aTyBsR4jnVJWqHKbPdLi-1212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1211" value="进入宠物论坛页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2113" y="7730" width="110" height="50" as="geometry" />
+          <mxGeometry x="2210" y="8467" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1212" target="aTyBsR4jnVJWqHKbPdLi-1214">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1212" value="调用/petForumPost/list接口加载列表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2113" y="7820" width="110" height="50" as="geometry" />
+          <mxGeometry x="2210" y="8557" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1214" target="aTyBsR4jnVJWqHKbPdLi-1216">
           <mxGeometry relative="1" as="geometry" />
@@ -4537,16 +4537,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1214" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2128" y="7910" width="80" height="80" as="geometry" />
+          <mxGeometry x="2225" y="8647" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1216" target="aTyBsR4jnVJWqHKbPdLi-1219">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1216" value="点击查看详细" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1901" y="7925" width="110" height="50" as="geometry" />
+          <mxGeometry x="1998" y="8662" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1219" value="调用ForumPostDetail页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1901" y="8018" width="110" height="50" as="geometry" />
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1219" target="aTyBsR4jnVJWqHKbPdLi-1221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1219" value="调用ForumPostDetail页面显示信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1998" y="8755" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1221" value="浏览量view_count增加1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="8848" width="126" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
