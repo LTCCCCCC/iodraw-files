@@ -3147,6 +3147,9 @@
         <mxCell id="KlFgdP3UMjDHiNvJSJYZ-358" value="论坛帖子管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3325" y="5610" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KlFgdP3UMjDHiNvJSJYZ-359" value="宠物领养管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3239" y="5622" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
