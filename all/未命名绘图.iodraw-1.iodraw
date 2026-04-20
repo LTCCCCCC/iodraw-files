@@ -4203,6 +4203,9 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1139" value="服务器保存图片至&#xa;uploads/users/ 目录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1692" y="6625" width="126" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1141" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="6740" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
