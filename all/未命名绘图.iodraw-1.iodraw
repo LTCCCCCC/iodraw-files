@@ -5107,6 +5107,9 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1368" value="更新 pet 表&#xa;owner_id = 申请人ID&#xa;status = 1 &#39;已领养&#39;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2902" y="11080" width="126" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1370" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3293" y="10861" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
