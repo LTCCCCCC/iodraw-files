@@ -283,6 +283,9 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-62" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="875" y="612" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-64" value="插入pet_user表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="990" y="365" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
