@@ -4582,8 +4582,8 @@
             <mxPoint x="23" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q5bx4qzfjyd5b6463nFF-39" value="收藏" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3703" y="3156" width="120" height="60" as="geometry" />
+        <mxCell id="Q5bx4qzfjyd5b6463nFF-39" value="点赞" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3693" y="3251" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
