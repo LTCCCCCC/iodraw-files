@@ -4756,7 +4756,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-77" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Q5bx4qzfjyd5b6463nFF-76">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-18" y="-7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
