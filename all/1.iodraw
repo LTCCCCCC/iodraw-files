@@ -4495,11 +4495,17 @@
         <mxCell id="Q5bx4qzfjyd5b6463nFF-10" value="宠物类型" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3319" y="3362" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q5bx4qzfjyd5b6463nFF-11" value="宠物论坛" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Q5bx4qzfjyd5b6463nFF-11" value="宠物论坛评论" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3930" y="2983" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-12" value="宠物论坛" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3930" y="3069" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5bx4qzfjyd5b6463nFF-13" value="宠物论坛点赞" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3930" y="3155" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5bx4qzfjyd5b6463nFF-14" value="宠物论坛收藏" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3934" y="3245" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
