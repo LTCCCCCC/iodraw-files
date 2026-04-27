@@ -4484,7 +4484,7 @@
           <mxGeometry x="3503" y="3261" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-7" value="宠物" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3503" y="3371" width="110" height="50" as="geometry" />
+          <mxGeometry x="3898" y="3425" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-8" value="宠物知识" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3308" y="3172" width="110" height="50" as="geometry" />
@@ -4603,7 +4603,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-43" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Q5bx4qzfjyd5b6463nFF-42">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="25" y="-6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
