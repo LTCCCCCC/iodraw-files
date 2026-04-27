@@ -4507,8 +4507,8 @@
         <mxCell id="Q5bx4qzfjyd5b6463nFF-14" value="宠物论坛收藏" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="4067" y="3232" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q5bx4qzfjyd5b6463nFF-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3642" y="2955" width="80" height="80" as="geometry" />
+        <mxCell id="Q5bx4qzfjyd5b6463nFF-20" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3683" y="2932.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
