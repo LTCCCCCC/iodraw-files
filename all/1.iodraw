@@ -4484,7 +4484,7 @@
           <mxGeometry x="3503" y="3261" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-7" value="宠物" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3898" y="3425" width="110" height="50" as="geometry" />
+          <mxGeometry x="3613" y="3429" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-8" value="宠物知识" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3308" y="3172" width="110" height="50" as="geometry" />
@@ -4608,7 +4608,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-44" value="申请" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3898" y="3308" width="120" height="60" as="geometry" />
+          <mxGeometry x="3893" y="3264" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
