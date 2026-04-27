@@ -4558,7 +4558,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-34" value="收藏" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3693" y="3140.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="3693" y="3146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q5bx4qzfjyd5b6463nFF-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q5bx4qzfjyd5b6463nFF-34" target="Q5bx4qzfjyd5b6463nFF-1">
           <mxGeometry relative="1" as="geometry">
@@ -4581,6 +4581,9 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="23" y="-4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5bx4qzfjyd5b6463nFF-39" value="收藏" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3703" y="3156" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
