@@ -4477,6 +4477,12 @@
         <mxCell id="Q5bx4qzfjyd5b6463nFF-4" value="宠物用品购买记录" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3503" y="3081" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Q5bx4qzfjyd5b6463nFF-5" value="宠物知识" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3503" y="3169" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5bx4qzfjyd5b6463nFF-6" value="宠物用品购买记录" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3529" y="3316" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
