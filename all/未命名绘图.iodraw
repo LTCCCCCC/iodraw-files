@@ -3466,7 +3466,7 @@
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-3" value="管理员" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3389" y="6016" width="40" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-4" value="宠物用品购买记录" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-4" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;购&lt;/div&gt;&lt;div&gt;买&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3389" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-5" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;论&lt;/div&gt;&lt;div&gt;坛&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -3493,10 +3493,10 @@
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-12" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3517" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-13" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-13" value="宠物类型管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3475" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-14" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-14" value="宠物新闻管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3432" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-15" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
