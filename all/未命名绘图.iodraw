@@ -3490,13 +3490,13 @@
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-11" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;领&lt;/div&gt;&lt;div&gt;养&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3346" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-12" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-12" value="论坛帖子管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3517" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-13" value="宠物类型管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3475" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-14" value="宠物新闻管理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-14" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;新&lt;/div&gt;&lt;div&gt;闻&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3432" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-15" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -3508,7 +3508,7 @@
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-17" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3217" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-18" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YiGS-nwDz-nrAY4Zh3OF-18" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;知识库管理&lt;/span&gt;&#xa;&#xa;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3560" y="6196" width="40" height="119" as="geometry" />
         </mxCell>
       </root>
