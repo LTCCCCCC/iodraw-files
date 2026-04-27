@@ -4492,6 +4492,9 @@
         <mxCell id="Q5bx4qzfjyd5b6463nFF-9" value="宠物知识分类" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3308" y="3055" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Q5bx4qzfjyd5b6463nFF-10" value="宠物类型" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3319" y="3362" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
