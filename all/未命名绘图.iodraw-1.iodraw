@@ -5621,8 +5621,11 @@
         <mxCell id="ZrBMB5X2VgOuYsi2akns-8" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3133" y="11134" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZrBMB5X2VgOuYsi2akns-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3815" y="12108" width="50" height="30" as="geometry" />
+        <mxCell id="ZrBMB5X2VgOuYsi2akns-9" value="开始" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="12120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrBMB5X2VgOuYsi2akns-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3835" y="13098" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
