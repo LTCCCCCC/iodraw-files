@@ -3394,7 +3394,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-2" value="用户" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3075" y="6087" width="40" height="48" as="geometry" />
+          <mxGeometry x="3049" y="6039" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YiGS-nwDz-nrAY4Zh3OF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YiGS-nwDz-nrAY4Zh3OF-3" target="YiGS-nwDz-nrAY4Zh3OF-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
