@@ -4907,7 +4907,7 @@
           <mxGeometry x="3231" y="4122" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-8" value="宠物知识分类" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3211" y="3951" width="110" height="50" as="geometry" />
+          <mxGeometry x="3231" y="3956" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-9" value="宠物类型" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3553" y="4305" width="110" height="50" as="geometry" />
@@ -5081,7 +5081,7 @@
           <mxGeometry x="3383" y="4062" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-46" value="包含" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3231" y="4038" width="120" height="60" as="geometry" />
+          <mxGeometry x="3226" y="4039" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KmTeBEqm07gUpWBmQeaj-8" target="KmTeBEqm07gUpWBmQeaj-46">
           <mxGeometry relative="1" as="geometry">
@@ -5250,7 +5250,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-79" value="宠物论坛分类" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="4508" y="3770" width="110" height="50" as="geometry" />
+          <mxGeometry x="4508" y="3837" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-80" value="包含" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="4503" y="3956" width="120" height="60" as="geometry" />
