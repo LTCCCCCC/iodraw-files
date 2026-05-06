@@ -4919,10 +4919,10 @@
           <mxGeometry x="4331" y="3961" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-12" value="宠物论坛点赞" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="4331" y="4067" width="110" height="50" as="geometry" />
+          <mxGeometry x="4311" y="4068" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-13" value="宠物论坛收藏" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="4331" y="4185" width="110" height="50" as="geometry" />
+          <mxGeometry x="4311" y="4185" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-14" value="申请" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="3915" y="3943" width="120" height="60" as="geometry" />
