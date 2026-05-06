@@ -1057,8 +1057,11 @@
         <mxCell id="vjCry0_ql_1BPp-U9Oxx-4" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1980" y="3725" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vjCry0_ql_1BPp-U9Oxx-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1885" y="6068" width="50" height="30" as="geometry" />
+        <mxCell id="vjCry0_ql_1BPp-U9Oxx-5" value="开始" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="6063" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCry0_ql_1BPp-U9Oxx-6" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1883" y="6438" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
