@@ -3514,6 +3514,9 @@
         <mxCell id="Vc9P1ReUlMpldN6yCZKl-1" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3040" y="6039" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Vc9P1ReUlMpldN6yCZKl-2" value="管理员" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3353.5" y="6037" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
