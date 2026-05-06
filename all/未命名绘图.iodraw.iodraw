@@ -1045,8 +1045,8 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-257" value="更新record状态驳回&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;恢复宠物状态为待领养" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2013" y="6743" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vjCry0_ql_1BPp-U9Oxx-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="18" width="50" height="30" as="geometry" />
+        <mxCell id="vjCry0_ql_1BPp-U9Oxx-1" value="开始" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1216" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
