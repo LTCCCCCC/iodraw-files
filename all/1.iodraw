@@ -4895,7 +4895,7 @@
           <mxGeometry x="3530" y="3957" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-4" value="宠物知识收藏" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3530" y="4067" width="110" height="50" as="geometry" />
+          <mxGeometry x="3553" y="4068" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-5" value="宠物知识点赞" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3553" y="4172" width="110" height="50" as="geometry" />
@@ -4910,7 +4910,7 @@
           <mxGeometry x="3211" y="3951" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-9" value="宠物类型" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3530" y="4305" width="110" height="50" as="geometry" />
+          <mxGeometry x="3553" y="4305" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-10" value="宠物论坛评论" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="4128" y="3717" width="110" height="50" as="geometry" />
