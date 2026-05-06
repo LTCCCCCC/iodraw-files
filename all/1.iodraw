@@ -4892,7 +4892,7 @@
           <mxGeometry x="3920" y="3829" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-3" value="宠物用品购买记录" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3530" y="3957" width="110" height="50" as="geometry" />
+          <mxGeometry x="3553" y="3961" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-4" value="宠物知识收藏" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3553" y="4068" width="110" height="50" as="geometry" />
@@ -5078,7 +5078,7 @@
           <mxGeometry x="3348" y="4170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-45" value="收藏" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3348" y="4062" width="120" height="60" as="geometry" />
+          <mxGeometry x="3383" y="4062" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KmTeBEqm07gUpWBmQeaj-46" value="包含" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="3206" y="4031.5" width="120" height="60" as="geometry" />
