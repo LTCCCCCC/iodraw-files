@@ -5411,6 +5411,13 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1446" value="调用 /petUser/save 接口" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3650" y="12618" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1447" target="s2zuLhDvUx3gonYEqNMr-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3710" y="13080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1447" value="提示添加成功" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3650" y="12837" width="110" height="50" as="geometry" />
         </mxCell>
@@ -5597,7 +5604,7 @@
         <mxCell id="s2zuLhDvUx3gonYEqNMr-29" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3805" y="12120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s2zuLhDvUx3gonYEqNMr-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-31" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3805" y="13050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
