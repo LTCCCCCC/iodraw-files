@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="D9mNm5HU4mcMwn2IMcA7">
-    <mxGraphModel dx="720" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="720" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,14 +214,6 @@
             <Array as="points">
               <mxPoint x="783" y="2359" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-44" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="1226" y="20" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-45" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-44" target="6gwBjL2nSkRt5UakV6oi-46" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1241" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6gwBjL2nSkRt5UakV6oi-46" target="6gwBjL2nSkRt5UakV6oi-48" edge="1">
@@ -1045,9 +1037,6 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-257" value="更新record状态驳回&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;恢复宠物状态为待领养" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2013" y="6743" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vjCry0_ql_1BPp-U9Oxx-1" value="开始" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1216" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vjCry0_ql_1BPp-U9Oxx-2" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1405" y="495" width="50" height="30" as="geometry" />
         </mxCell>
@@ -1064,7 +1053,7 @@
           <mxGeometry x="1883" y="6438" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCP40wSUYq25yvlnDr_5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1186" y="-10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1342" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
