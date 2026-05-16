@@ -649,10 +649,8 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-153" value="点击购买" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2350" y="3474" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6gwBjL2nSkRt5UakV6oi-154" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2045" y="3725" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="oCP40wSUYq25yvlnDr_5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-154" target="oCP40wSUYq25yvlnDr_5-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-154" value="显示售罄" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1990" y="3475" width="110" height="50" as="geometry" />
@@ -680,7 +678,7 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-163" value="后端校验库存" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2365" y="3700" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-166" edge="1">
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oCP40wSUYq25yvlnDr_5-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2060" y="3740" as="targetPoint" />
           </mxGeometry>
@@ -1050,8 +1048,8 @@
         <mxCell id="oCP40wSUYq25yvlnDr_5-9" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2165" y="3190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oCP40wSUYq25yvlnDr_5-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="3705" width="120" height="60" as="geometry" />
+        <mxCell id="oCP40wSUYq25yvlnDr_5-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1985" y="3705" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
