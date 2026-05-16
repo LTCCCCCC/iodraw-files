@@ -5059,6 +5059,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1371" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1361" target="aTyBsR4jnVJWqHKbPdLi-1370" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-28" value="不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTyBsR4jnVJWqHKbPdLi-1371">
+          <mxGeometry x="-0.0741" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1361" value="审核决定" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3118" y="10843" width="80" height="80" as="geometry" />
         </mxCell>
@@ -5083,12 +5088,11 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1370" value="调用审核驳回接口" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3293" y="10858" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1377" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1372" edge="1">
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1372" target="s2zuLhDvUx3gonYEqNMr-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3348" y="11119" />
+              <mxPoint x="3350" y="11119" />
             </Array>
-            <mxPoint x="3171.999999999999" y="11119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1372" value="更新 pet_record 状态为 3 &#39;拒绝&#39;&#xa;填写驳回原因" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
