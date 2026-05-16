@@ -5024,14 +5024,8 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1346" value="更新或删除 pet 表记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3684" y="9842" width="126" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1348" target="aTyBsR4jnVJWqHKbPdLi-1351" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1348" value="刷新列表显示最新数据" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3532" y="9856" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1351" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="3572" y="9948" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1354" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="3142" y="10530" width="30" height="30" as="geometry" />
@@ -5575,9 +5569,6 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1490" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="3850" y="13060" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZrBMB5X2VgOuYsi2akns-6" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3562" y="9974" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZrBMB5X2VgOuYsi2akns-7" value="开始" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3133" y="10504" width="50" height="30" as="geometry" />
         </mxCell>
@@ -5613,6 +5604,9 @@
         </mxCell>
         <mxCell id="s2zuLhDvUx3gonYEqNMr-19" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3527" y="9329" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3527" y="9980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
