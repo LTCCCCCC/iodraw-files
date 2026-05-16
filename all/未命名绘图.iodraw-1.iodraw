@@ -5600,8 +5600,14 @@
         <mxCell id="s2zuLhDvUx3gonYEqNMr-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3527" y="9980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s2zuLhDvUx3gonYEqNMr-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3102" y="10493" width="120" height="60" as="geometry" />
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2zuLhDvUx3gonYEqNMr-23" target="aTyBsR4jnVJWqHKbPdLi-1356">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-23" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3097" y="10493" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3183" y="11308" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
