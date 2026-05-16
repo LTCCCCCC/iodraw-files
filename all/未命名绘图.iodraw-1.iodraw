@@ -4146,11 +4146,6 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1119" value="更新前端 Store 中的全局用户信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1251" y="6747" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1121" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1522" y="6450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1121" value="提示修改成功" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1251" y="6840" width="110" height="50" as="geometry" />
         </mxCell>
@@ -5618,6 +5613,9 @@
         </mxCell>
         <mxCell id="s2zuLhDvUx3gonYEqNMr-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1462" y="6030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="6742" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
