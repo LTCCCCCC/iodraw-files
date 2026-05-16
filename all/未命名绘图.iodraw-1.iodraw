@@ -4644,7 +4644,7 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1240" target="aTyBsR4jnVJWqHKbPdLi-1243" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1246" edge="1">
+        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s2zuLhDvUx3gonYEqNMr-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2279" y="9448" />
@@ -4670,10 +4670,8 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1251" value="查询 pet_forum_favorite 表" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2470" y="9128" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1253" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2568" y="9448" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1253" target="s2zuLhDvUx3gonYEqNMr-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1253" value="更新收藏记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2462" y="9219" width="126" height="78" as="geometry" />
@@ -5621,8 +5619,15 @@
         <mxCell id="s2zuLhDvUx3gonYEqNMr-10" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2523" y="8411" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1246" target="s2zuLhDvUx3gonYEqNMr-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="2279" y="9398" as="sourcePoint" />
+            <mxPoint x="2568" y="9448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s2zuLhDvUx3gonYEqNMr-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2511" y="9490" width="120" height="60" as="geometry" />
+          <mxGeometry x="2465" y="9413" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
