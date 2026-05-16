@@ -937,8 +937,10 @@
             <mxPoint x="3" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-233" target="6gwBjL2nSkRt5UakV6oi-239" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-233" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1945" y="6438" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-246" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6gwBjL2nSkRt5UakV6oi-245" vertex="1" connectable="0">
           <mxGeometry x="-0.326" y="3" relative="1" as="geometry">
@@ -965,11 +967,10 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-237" value="后端校验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;宠物是否仍可申请&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;用户是否已拥有该宠物" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2166" y="6413" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-239" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="1930" y="6438" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-240" target="6gwBjL2nSkRt5UakV6oi-239" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-240" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1960" y="6453" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-240" value="返回错误信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2000" y="6428" width="110" height="50" as="geometry" />
@@ -1008,20 +1009,21 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-253" value="管理员审核" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2166" y="6728" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-255" target="6gwBjL2nSkRt5UakV6oi-239" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-255" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1945" y="6468" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-255" value="更新 record 状态为&#39;通过&#39;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;更新宠物领养状态" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2150" y="6860" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-257" target="6gwBjL2nSkRt5UakV6oi-239" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6gwBjL2nSkRt5UakV6oi-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-257" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1945" y="6468" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-257" value="更新record状态驳回&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;恢复宠物状态为待领养" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2013" y="6743" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vjCry0_ql_1BPp-U9Oxx-6" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1883" y="6438" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCP40wSUYq25yvlnDr_5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oCP40wSUYq25yvlnDr_5-1" target="6gwBjL2nSkRt5UakV6oi-46">
           <mxGeometry relative="1" as="geometry" />
@@ -1041,7 +1043,10 @@
         <mxCell id="oCP40wSUYq25yvlnDr_5-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1985" y="3710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oCP40wSUYq25yvlnDr_5-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oCP40wSUYq25yvlnDr_5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oCP40wSUYq25yvlnDr_5-17" target="6gwBjL2nSkRt5UakV6oi-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oCP40wSUYq25yvlnDr_5-17" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="6047" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
