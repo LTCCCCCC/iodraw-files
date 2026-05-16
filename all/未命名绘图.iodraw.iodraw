@@ -967,10 +967,8 @@
         <mxCell id="6gwBjL2nSkRt5UakV6oi-237" value="后端校验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;宠物是否仍可申请&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;用户是否已拥有该宠物" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2166" y="6413" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6gwBjL2nSkRt5UakV6oi-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6gwBjL2nSkRt5UakV6oi-240" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1960" y="6453" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="oCP40wSUYq25yvlnDr_5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6gwBjL2nSkRt5UakV6oi-240" target="oCP40wSUYq25yvlnDr_5-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6gwBjL2nSkRt5UakV6oi-240" value="返回错误信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2000" y="6428" width="110" height="50" as="geometry" />
@@ -1048,6 +1046,9 @@
         </mxCell>
         <mxCell id="oCP40wSUYq25yvlnDr_5-17" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="6047" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oCP40wSUYq25yvlnDr_5-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="6429" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
