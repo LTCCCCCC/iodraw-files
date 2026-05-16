@@ -1063,6 +1063,9 @@
         <mxCell id="vjCry0_ql_1BPp-U9Oxx-6" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1883" y="6438" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oCP40wSUYq25yvlnDr_5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
