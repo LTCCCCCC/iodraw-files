@@ -5495,10 +5495,8 @@
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1471" value="更新 pet_user 表记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3802" y="12823" width="126" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="aTyBsR4jnVJWqHKbPdLi-1492" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1473" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3865" y="13060" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTyBsR4jnVJWqHKbPdLi-1473" target="s2zuLhDvUx3gonYEqNMr-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTyBsR4jnVJWqHKbPdLi-1473" value="提示修改成功" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3810" y="12938" width="110" height="50" as="geometry" />
@@ -5598,6 +5596,9 @@
         </mxCell>
         <mxCell id="s2zuLhDvUx3gonYEqNMr-29" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3805" y="12120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2zuLhDvUx3gonYEqNMr-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3805" y="13050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
